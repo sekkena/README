@@ -1,10 +1,10 @@
 ## Hello I'm Malek (Sekkena)
 
 - I’m interested in NodeJS
-- I’m currently learning TypeScript 
+- I’m currently learning ECMAScript6 ~~TypeScript~~
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,nodejs,discordjs,discord,vscode,md&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,nodejs,discordjs,discord,vscode,md&perline=8)](https://github.com/sekkena)
 
 ## NPM Packages:
 
