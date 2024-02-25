@@ -4,7 +4,7 @@
 - I’m currently learning TypeScript 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,nodejs,discord,vscode,md&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,nodejs,discordjs,discord,vscode,md&perline=8)](https://skillicons.dev)
 
 ## NPM Packages:
 
