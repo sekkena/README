@@ -1,11 +1,9 @@
 ## Hello I'm Malek (Sekkena)
 
-![Discord Widget](https://discord.c99.nl/widget/theme-4/507504337677844500.png)
-
-
 - I’m interested in NodeJS
 - I’m currently learning ECMAScript6 ~~TypeScript~~
 
+![Discord Widget](https://discord.c99.nl/widget/theme-4/507504337677844500.png)
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,nodejs,discordjs,discord,vscode,md&perline=8)](https://github.com/sekkena)
 
