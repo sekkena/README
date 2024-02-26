@@ -1,6 +1,7 @@
 ## Hello I'm Malek (Sekkena)
 
-https://discord.c99.nl/widget/theme-4/507504337677844500.png 
+![Discord Widget](https://discord.c99.nl/widget/theme-4/507504337677844500.png)
+
 
 - I’m interested in NodeJS
 - I’m currently learning ECMAScript6 ~~TypeScript~~
