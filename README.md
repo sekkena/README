@@ -1,7 +1,7 @@
 ## Hello I'm Malek (Sekkena)
 
-- I’m interested in NodeJS
-- I’m currently learning ECMAScript6 ~~TypeScript~~
+- I’m interested in Discord Bots && PSP Games 
+- I’m currently learning Lua ~~TypeScript~~
 
 ![Discord Widget](https://discord.c99.nl/widget/theme-4/507504337677844500.png)
 ## Skills
