@@ -5,7 +5,7 @@
 
 ![Discord Widget](https://discord.c99.nl/widget/theme-4/507504337677844500.png)
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,nodejs,discordjs,discord,vscode,md&perline=8)](https://github.com/sekkena)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,lua,html,nodejs,discordjs,discord,vscode,md&perline=9)](https://github.com/sekkena)
 
 ## [NPM Packages](https://www.npmjs.com/~sekkena2)
 
