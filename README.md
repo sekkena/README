@@ -1,11 +1,11 @@
 ## Hello I'm Malek (Sekkena)
 
-- I’m interested in Discord Bots && PSP Games 
+- I’m interested in Discord Bots
 - I’m currently learning Lua ~~TypeScript~~
 
 ![Discord Widget](https://discord.c99.nl/widget/theme-4/507504337677844500.png)
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,lua,html,nodejs,discordjs,discord,vscode,md&perline=9)](https://github.com/sekkena)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,lua,html,nodejs,npm.discordjs,discord,vscode,md&perline=9)](https://github.com/sekkena)
 
 ## [NPM Packages](https://www.npmjs.com/~sekkena2)
 
